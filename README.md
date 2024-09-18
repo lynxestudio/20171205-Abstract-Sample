@@ -5,7 +5,7 @@
             </p>
             <div><b>Fig 1 UML model of the abstract class.</b></div><br>
             <div>
-<IMG src="picture_library/abstractClasses/fig1.png">
+<IMG src="images/fig1.png">
 </div><br>
 <p align="justify">
 The purpose of an abstract class is primarily to provide an appropriate base class from which other classes can inherit and thus share a common design.
@@ -36,7 +36,7 @@ The C# compiler always prevents you form instantiating an abstract class, for ex
             </p>
             <div><b>Fig 2 Employee hierarchy UML class diagram.</b></div><br>
             <div>
-<IMG src="picture_library/abstractClasses/fig2.png"  width="748">
+<IMG src="images/fig2.png"  width="748">
 </div><br>
             <p align="justify">
             We use abstract class Employee to represent the general concept of an employee. The classes that inherit from Employee are: <i>CommissionEmployee</i>, <i>PieceEmployee</i> and <i>HourlyEmployee</i>.
@@ -55,6 +55,6 @@ The C# compiler always prevents you form instantiating an abstract class, for ex
             </p>
             <div><b>Fig 3. The output for our example.</b></div><br>
             <div>
-<IMG src="picture_library/abstractClasses/testAbstractClass.png">
+<IMG src="images/testAbstractClass.png">
 </div><br>
             <p align="justify">Note: <q>Those examples were based on the examples included in: Deitel's developer series C# 2010 for programmers.</q></p>
